@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * convert - converts number and base into string
- * @num: input number
+ * convert - converts num and base into str
+ * @num: input num
  * @base: input base
  * @lowercase: flag if hexa values need to be lowercase
- * Return: result string
+ * Return: str
  */
 char *convert(unsigned long int num, int base, int lowercase)
 {
